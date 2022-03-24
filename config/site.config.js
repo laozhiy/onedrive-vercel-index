@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: '影视',
-      link: 'https://www.yiyun.ml',
+      link: 'https://yiyun.ml',
     },
   ],
 

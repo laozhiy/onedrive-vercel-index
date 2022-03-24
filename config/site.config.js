@@ -1,4 +1,4 @@
-/**
+	/**
  * This file contains the configuration used for customising the website, such as the folder to share,
  * the title, used Google fonts, site icons, contact info, etc.
  */
@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: '影视',
-      link: 'https://yiyun.ml',
+      link: 'https://www.yiyun.cf',
     },
   ],
 

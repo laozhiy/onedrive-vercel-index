@@ -1,23 +1,25 @@
-<div align="center">
-  <img src="./public/header.png" alt="onedrive-vercel-index" />
-  <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
-  <p><a href="https://ovi.swo.moe/docs/getting-started">Get started</a> · <a href="https://ovi.swo.moe/blog/whats-new">What's new?</a> · <a href="https://ovi.swo.moe/sponsor">Sponsoring</a></p>
-  <p><em>OneDrive public directory listing, powered by Vercel and Next.js</em></p>
-
-  <img src="https://img.shields.io/badge/OneDrive-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="OneDrive" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" alt="Vercel" />
-  <a href="https://ovi.swo.moe"><img src="https://img.shields.io/badge/Documentation-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABeUlEQVRIie2VwUrDQBCGZ5ZubNmS0Ba9tF6CUqTHpg+g+AhCn8R30DfpM3jRezdHoZJroaBJQ2qgsIEdD7YSsCtJVBTxP87u/t/u7M4swDcLTQNSSseyLFbERCmlPc9LCgF83z/jnE9s294vvk+AJEmesiwbe553awQEQbCXZVnY7/ebjBXa/Ju01jCbzVIA6AwGA7WN1/KT4jg+6vV6TcYYpGlKq9UKiQgAAOr1OnU6HWNKGWPQarWa8/n8GADudwIQ0UJ89QjDEKMoOiEitRm7tm37gnNuPAUiAiJa+VjNNJmIYDgcPiAiAQD4vh9tT1NG5RJdQT8PkFKak/5ZgJTyUgjxPJ1Ob4josArAeMmWZYHrulftdhvX6/X5YrEwPtFKgG63C7ApxEajga7rVvH/BZf8D/hjACJSVRpabj1su+9OgBAiiOM41VqXNtdaw3K5TIUQQT7+rjqllKec84njOAdlAEmSPCqlxqPR6O5DQA70JZ/+t+sFAb2R22dSZ7wAAAAASUVORK5CYII=" alt="Documentation" /></a>
-  <a href="https://github.com/spencerwooo/onedrive-vercel-index/discussions"><img src="https://img.shields.io/github/discussions/spencerwooo/onedrive-vercel-index?color=CF2B5B&labelColor=black&logo=github" alt="GitHub Discussions" /></a>
 </div>
 
-## TL;DR
+---
 
-Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
+## 你好
 
-- Completely free to host 💸
-- Super fast ⚡ and responsive 💦
-- Takes less than 15 minutes to setup ⏱️
-- Highly customisable ⚒️
+这是一个基于 OneDrive 的共享网盘项目。
+<br>
+你可以自由地浏览、下载[本站](https://www.yiyun.cf)分享的所有文件。
+<br>
+如有任何疑问，欢迎随时联系我。
 
-🍌 More importantly, we are pretty (●'◡'●)
+
+
+## 许可说明
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+- 本作品获得知识共享署名[ ShareAlike 4.0 国际许可](http://creativecommons.org/licenses/by-sa/4.0/)
+- 京东代挂 [327588234](https://jq.qq.com/?_wv=1027&k=61NSLU8V)
+
+---
+
+> [@影视](https://www.yiyun.ml) · [@小说](https://www.freeysb.ml) · [@Mail](mailto:1@zxji.top) 
+> 
